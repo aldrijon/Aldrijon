@@ -1,4 +1,4 @@
-## Olá, sou Aldrijon M Silva
+## Olá sou Aldrijon M Silva, estudante de análise e desenvolvimento de sistemas
 <div align="center">
   <a href="https://github.com/aldrijon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrijon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
