@@ -1,24 +1,49 @@
-## Olá sou Aldrijon M Silva, Graduando em Análise e desenvolvimento de sistemas.
+# Olá! Eu sou Aldrijon 👋
+
+🎓 Graduando em **Análise e Desenvolvimento de Sistemas** e desenvolvedor em evolução contínua, construindo projetos para resolver problemas reais e fortalecer minhas habilidades em desenvolvimento web e software.
+
+## 🚀 Sobre mim
+
+- 💻 Estudando e desenvolvendo aplicações web e sistemas.
+- 🧩 Praticando organização de código, interfaces, CRUD e integração entre funcionalidades.
+- 📚 Aprendendo continuamente por meio de projetos práticos.
+- 🎯 Objetivo: evoluir como desenvolvedor e contribuir com soluções úteis em equipes de tecnologia.
+
+## 🛠️ Tecnologias
+
+<div>
+  <img alt="HTML5" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="PHP" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="Python" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="MySQL" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</div>
+
+## 📌 Projetos
+
+Confira meus repositórios e exemplos de código:
+
+- [HelpDesk](https://github.com/aldrijon/HelpDesk) — projeto de atendimento/help desk desenvolvido em Python.
+- [Studio Fátima](https://github.com/aldrijon/studio-fatima) — projeto web em PHP.
+- [Responsive](https://github.com/aldrijon/responsive) — projeto web com foco em layout responsivo.
+- [Assessoria](https://github.com/aldrijon/assessoria) — projeto web/CSS.
+
+> Os projetos estão em evolução. Consulte cada repositório para ver as tecnologias, funcionalidades e instruções disponíveis. Não apresento funcionalidades como concluídas sem que estejam implementadas.
+
+## 📊 GitHub
+
 <div align="center">
-  <a href="https://github.com/aldrijon">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aldrijon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrijon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aldrijon&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrijon&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas nos repositórios" />
 </div>
-  <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
-<div> 
-  <a href="https://instagram.com/aldrijon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aldrijon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aldrijon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!-- 
-    ![Snake animation](https://github.com/aldrijon/aldrijon/blob/output/github-contribution-grid-snake.svg)
-  -->  
-</div>
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/aldrijon/)
+- [Instagram](https://instagram.com/aldrijon/)
+- E-mail: aldrijon@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil! Estou aberto a oportunidades de aprendizado, colaboração e desenvolvimento profissional.
