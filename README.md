@@ -22,14 +22,16 @@
 
 ## 📌 Projetos
 
-Confira meus repositórios e exemplos de código:
+- [HelpDesk](https://github.com/aldrijon/HelpDesk) — aplicação desktop de chamados em Python, Tkinter e SQLite.
+- [Studio Fátima](https://github.com/aldrijon/studio-fatima) — projeto web em PHP para controle de clientes.
+- [Responsive](https://github.com/aldrijon/responsive) — projeto front-end com HTML, CSS e JavaScript.
+- [Canuto Assessoria](https://github.com/aldrijon/assessoria) — projeto de landing page com HTML e CSS.
 
-- [HelpDesk](https://github.com/aldrijon/HelpDesk) — projeto de atendimento/help desk desenvolvido em Python.
-- [Studio Fátima](https://github.com/aldrijon/studio-fatima) — projeto web em PHP.
-- [Responsive](https://github.com/aldrijon/responsive) — projeto web com foco em layout responsivo.
-- [Assessoria](https://github.com/aldrijon/assessoria) — projeto web/CSS.
+### 🧱 Próximos projetos
 
-> Os projetos estão em evolução. Consulte cada repositório para ver as tecnologias, funcionalidades e instruções disponíveis. Não apresento funcionalidades como concluídas sem que estejam implementadas.
+Estou organizando novos projetos práticos de portfólio. Eles serão adicionados aqui após a implementação, revisão e validação de cada demonstração.
+
+Para manter a documentação consistente, preparei um [modelo de README para novos projetos](https://github.com/aldrijon/Aldrijon/blob/main/TEMPLATE_README.md).
 
 ## 📊 GitHub
 
